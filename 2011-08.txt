@@ -1,0 +1,65 @@
+===========================================================
+ West Yorkshire Python User Group Meeting - Thurs. 11 Aug.
+===========================================================
+
+About the meeting
+=================
+
+We'll be arriving at Old Broadcasting House from about 6:30 onwards
+for coffee and vaguely Python related chat.  At 7:30 there is a talk,
+which is expected to last for about half an hour.  After that we will
+head to a pub for more geeky chat.
+
+The meetings are always good fun, and everyone of any level of
+experience or interest in Python is extremely welcome.  Bring a friend!
+
+Talk: "Block World" - Simon Davy
+--------------------------------
+ 
+Python and Ruby both are expressive, high level languages with many
+advanced features. Most differences between them are syntactic rather
+than semantic.  However one feature that Ruby has and Python lacks are
+"blocks", and they are often touted as as one the best features of
+Ruby the language.
+
+In this talk, I'm going to introduce the Ruby block feature, which is
+very useful but actually has some quite interesting semantics -
+they're more than just anonymous functions. We'll look at the use
+cases for blocks, and look at the idiomatic python solutions for those
+use cases, where they exist. We'll finish of with a discussion of
+whether blocks (as implemented in Ruby) would be a useful addition to
+Python.
+
+Experience Level:
+
+ The talk should be suitable to anyone who knows a bit about Python or Ruby.
+
+Of Interest To:
+
+ This talk will be of particular interest to anywone who wants to
+ compare Python with Ruby, or people interested in programming
+ language design in general
+
+Date and Time
+=============
+Thursday 14 July.  From 6:30pm, talk at 7:30.  Pub afterwards.
+
+Location
+========
+
+Old Broadcasting House
+148 Woodhouse Lane
+Leeds
+LS2 9EN
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
