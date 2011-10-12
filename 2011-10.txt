@@ -1,0 +1,62 @@
+===========================================================
+ West Yorkshire Python User Group Meeting - Thurs. 13 Oct.
+===========================================================
+
+About the meeting
+=================
+
+We'll be arriving at Old Broadcasting House from about 6:30 onwards
+for vaguely Python related chat.  At 7:30 will be two talks, which are
+expected to last for about an hour.  After that we will head to a pub
+for more geeky chat.  It is likely we will try to go to the North bar
+to join the Ubuntu release party which is being held there.
+
+The meetings are always good fun, and everyone of any level of
+experience or interest in Python is extremely welcome.  Bring a friend!
+
+Talk: "Testing in Python" - Peter Russell
+-----------------------------------------
+ 
+Automated testing is now an important discipline in software
+development.  In this talk Peter will be presenting some of his views
+on how to test code written in Python, the virtues (or otherwise) of
+test driven development as a methodology, and some of the tools
+available for testing.
+
+Of Interest to
+~~~~~~~~~~~~~~
+
+This talk will not be a "how to test" tutorial, rather a personal
+perspective on testing.  As such it should be of interest to people
+who are experienced in unit, functional and integration testing as
+well as people who are new to automated testing.  A basic level of
+Python knowledge would be helpful.
+
+
+Date and Time
+=============
+Thursday 13 October.  From 6:30pm, talk at 7:30.  Pub afterwards.
+
+Location
+========
+
+| Old Broadcasting House
+| 148 Woodhouse Lane
+| Leeds
+| LS2 9EN
+
+We will be holding the talks in the boardroom at the back of the
+ground floor of the building.  If you arrive after 7:30 we may not
+hear the doorbell, so please phone Peter on 07763 570 860.
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
