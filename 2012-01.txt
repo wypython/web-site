@@ -1,0 +1,58 @@
+===========================================================
+ West Yorkshire Python User Group Meeting - Thurs. 12 Jan.
+===========================================================
+
+About the meeting
+=================
+
+We'll be arriving at Old Broadcasting House from about 6:30 onwards
+for vaguely Python related chat.  At 7:30 there will be a few short
+talks, which are expected to last for about an hour.  After that we
+will head to a pub for more geeky chat.
+
+The meetings are always good fun, and everyone of any level of
+experience or interest in Python is extremely welcome.  Bring a
+friend!
+
+Talks: Python Web Framework Comparrison (Part 1)
+-----------------------------------------
+
+This month and next we are comparing Python web frameworks.  This will
+comprise a series of short talks.
+
+Experience Level:
+    A basic level of Python knowledge would be helpful.  Some
+    knowledge of how websites work (HTML, CSS etc.) would also be useful.
+
+Of Interest to:
+   This session will be of particular interest to anyone evaluating
+   web frameworks for future projects, but the techniques used to
+   build them should be interesting for everyone.
+
+Date and Time
+=============
+Thursday 12 January, from 6:30pm. Talks from 7:30.  Pub afterwards.
+
+Location
+========
+
+| Old Broadcasting House
+| 148 Woodhouse Lane
+| Leeds
+| LS2 9EN
+
+We will be holding the talks in the boardroom at the back of the
+ground floor of the building, so please arrive by 7:30, as we
+might not hear the door bell.
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
