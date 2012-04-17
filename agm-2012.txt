@@ -1,0 +1,61 @@
+==================================================================
+ West Yorkshire Python User Group  -  Sunday 22 April - Venue TBC
+==================================================================
+
+-------------------------------------
+ This Month : Annual General Meeting
+-------------------------------------
+
+This Sunday afternoon we are holding a weekend meeting to help us to
+organise the group and plan for the future.
+
+This meeting is open to everyone who has an interest in seeing a
+vibrant Python community in West Yorkshire, regardless of whether
+you've attended meetings in the past.
+
+In particular we would welcome participation from people who are
+members of other local community groups and members of Python groups
+from other regions.
+
+We do not yet have a venue confirmed.  If you are interested in
+coming, please check our website, follow us on Twitter, or join the
+mailing list (see below for details).
+
+
+Draft Agenda
+============
+
+If you would like to add anything to this agenda, please post to the
+mailing list.  Nothing is off limits.
+
+1. Agreeing rules for the meeting, appointing a chair and secretary.
+2. Agreeing the voting system for the leadership elections if necessary.
+3. Leadership elections - See below
+4. Meeting schedule - When should the monthly meetings be held?
+5. The WYPy website - hosting, development etc.
+6. Sponsorship
+7. Venue for meetings
+8. Any other business.
+
+
+Leadership Elections
+====================
+
+We intend to elect a leader for the group.  Nominations are currently
+open, and so we aren't able to include a list of candidates - again
+check our website, Twitter or the mailing list to see the candidates
+when they are available.  Anyone who attends the meeting will be
+eligible to vote, and there may be some email voting in advance of the
+meeting for people who can't make it.
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
