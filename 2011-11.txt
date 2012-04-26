@@ -1,22 +1,24 @@
 ===========================================================
- West Yorkshire Python User Group Meeting - Thurs. 13 Oct.
+ West Yorkshire Python User Group Meeting - Thurs. 10 Nov.
 ===========================================================
 
 About the meeting
 =================
 
 We'll be arriving at Old Broadcasting House from about 6:30 onwards
-for vaguely Python related chat.  At 7:30 will be two talks, which are
-expected to last for about an hour.  After that we will head to a pub
-for more geeky chat.  It is likely we will try to go to the North bar
-to join the Ubuntu release party which is being held there.
+for vaguely Python related chat.  At 7:30 there will be a talk, which
+is expected to last for about an half an hour.  After that we will
+head to a pub for more geeky chat.
 
 The meetings are always good fun, and everyone of any level of
-experience or interest in Python is extremely welcome.  Bring a friend!
+experience or interest in Python is extremely welcome.  Bring a
+friend!
 
 Talk: "Testing in Python" - Peter Russell
 -----------------------------------------
- 
+
+This talk was postponed last month due to lack of time.
+
 Automated testing is now an important discipline in software
 development.  In this talk Peter will be presenting some of his views
 on how to test code written in Python, the virtues (or otherwise) of
@@ -32,28 +34,9 @@ Of Interest to:
     people who are experienced in unit, functional and integration
     testing as well as people who are new to automated testing. 
 
-Talk: "Using the SciPy toolset for interactive analysis" - Tony Simpson
------------------------------------------------------------------------
-
-Tony will be talking about his use of IPython, SciPy and MatplotLib
-for interactive analysis of logfiles.
-
-These tools have been developed in the scientific community for
-analysing data and running computational simulations. It will be
-interesting to see how they can be applied to a different domain.
-
-Experience Level:
-    This talk should be suitable for everyone.
-
-Of Interest To:
-    This talk will be of particular interest to people who are
-    interested in analysis and people who are interested in real world
-    applications of Python.
-
-
 Date and Time
 =============
-Thursday 13 October.  From 6:30pm, talk at 7:30.  Pub afterwards.
+Thursday 10 November, from 6:30pm. Talk at 7:30.  Pub afterwards.
 
 Location
 ========

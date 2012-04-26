@@ -15,7 +15,7 @@ experience or interest in Python is extremely welcome.  Bring a
 friend!
 
 Talks: Python Web Framework Comparrison (Part 1)
------------------------------------------
+------------------------------------------------
 
 This month and next we are comparing Python web frameworks.  This will
 comprise a series of short talks.

@@ -1,14 +1,14 @@
 ===========================================================
- West Yorkshire Python User Group Meeting - Thurs. 11 Aug.
+ West Yorkshire Python User Group Meeting - Thurs. 13 Oct.
 ===========================================================
 
 About the meeting
 =================
 
 We'll be arriving at Old Broadcasting House from about 6:30 onwards
-for coffee and vaguely Python related chat.  At 7:30 there is a talk,
-which is expected to last for about half an hour.  After that we will
-head to a pub for more geeky chat.
+for vaguely Python related chat.  At 7:30 there is a talk, which is
+expected to last for about half an hour.  After that we will head to a
+pub for more geeky chat.
 
 The meetings are always good fun, and everyone of any level of
 experience or interest in Python is extremely welcome.  Bring a friend!
