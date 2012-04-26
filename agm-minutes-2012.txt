@@ -1,0 +1,288 @@
+.. -*- mode: rst -*-
+
+==============================
+ Minutes of the WYPy AGM 2012
+==============================
+
+Present:
+
+* Peter Russell - Secretary
+* Simon Davy
+* Bernard
+* Edward Saxton
+* Matt Goodall - Chair
+
+[TODO - Add remaining]
+
+Actions are recorded inline with the notes, and summarised at the end.
+
+Opening
+=======
+
+Peter asked if Matt would chair the meeting, which he agreed to.
+Peter then volunteered to take notes.
+
+Leadership
+==========
+
+We had planned to hold a leadership election, but after a brief
+discussion it became clear that the two candidates agreed that it
+would be best if Peter were leader and Simon vice-leader.  As there
+were no objections, this was agreed.
+
+Matt commented that he thought everyone should be willing to help out
+the leader and vice-leader where-ever possible, which was met with
+nodding.
+
+An extremely tasty looking burger was brought to the table, which
+transpired to be Ed's.  Om Nom Nom.
+
+Meeting Night
+=============
+
+We started to discuss whether the second Thursday of every month was
+still a sensible night to meet.
+
+Peter suggested that we consider Fridays, as they are a non-work
+night, and so work isn't affected by what can be a late night.  Matt
+said that Fridays were no good for him, but he did say that we should
+do whatever works best for the group.
+
+Daley said that the second Thursday of the month is not a good night
+for him as it clashes with XP Manchester, which he says is his
+favourite of all the groups he attends [Action for Peter: Check out
+XPMan].
+
+Bernie said that Thursdays still aren't good for him, but that might
+change in future.
+
+Matt suggested holding another web poll to determine the best night
+for the group and potential attendees.  We discussed using Doodle
+again, but that asks people about specific dates, with no option to
+poll for recurring events.  We also discussed whether it makes sense
+to ask people about each week of the month, or just the days of the
+week.  Daley pointed out that the weeks of the month are significant
+as he attends a lot of other similar groups.
+
+Matt suggested that we use a google docs form, which would write
+results to a spreadsheet, and volunteered to do so.  Peter commented
+that one very useful feature of Doodle is the ability to mark dates as
+"if need be".  [Action for Matt - set up poll]
+
+Simon suggested that if we chose a night which some people cannot
+attend, we could keep them in touch with the group by holding
+quarterly events on a weekend. [Action for Peter - Arrange quarterly events]
+
+Venue
+=====
+
+We discussed whether Old Broadcasting House (OBH) is a sensible place to meet.
+
+Peter said something cruel to Simon.  Posterity does not record what,
+but perhaps that's for the best.
+
+In general it seemed to be felt that OBH is a sensible place to meet,
+but it does have some problems:  It is a fair distance from the
+station, and we need to have someone arrive before six to let the rest
+in.
+
+Peter said that the timing issue is something that we can better
+manage now that we have a leader to organise people getting there in
+time.
+
+We discussed some pub venues, particularly the Adelphi and the
+Wellington.  Tony agreed to contact those venues so we can find out
+what they could offer us. [Action for Tony - Contact some Pubs, as
+potential venues]
+
+Sponsorship
+===========
+
+Simon suggested that the PSF might be able to provide some support,
+although he didn't know what.  However he knows that they're willing
+to cover the costs of EventBrite for some paid events.  He agreed to
+contact them [Action for Simon - Contact the PSF and see what support
+they provide to user groups]
+
+Simon also presented the possibility of Canonical providing some
+sponsorship.  He said that he didn't think that his status as an
+employee would make any difference, and he didn't know what they'd
+want in return for any help, or what help they could offer, but he
+said he'd look into it. [Action for Simon - Speak to colleagues at
+Canonical about sponsorship for group.]
+
+Peter said that The Test People (TTP, employers of Peter, Tony and
+James (not present)) were keen to provide sponsorship for the group,
+and suggested a number of ways they might be able to do so:
+
+* By allowing their employees to spend some time on WYPy related
+  tasks, such as organising meetings, sending out announcements etc.
+  Peter said that he'd asked for three hours a month of his, Tony or
+  James's time, and could confirm that this is available.
+* There is also the possibility of some financial support, probably in
+  the form of paying for (for example) some Pizzas at meetings, or
+  some drinks afterwards, but the amount and frequency of such help is
+  unconfirmed.  This would be claimed back after the fact.
+* In return for this support, TTP would probably want a logo on the
+  Group's website, mention at the meetings, and similar.
+
+A motion was put that we accept the offer of time, and if possible
+beer and pizza.  It was carried unanimously.  [Action for Peter - Make
+an agreement with TTP regarding sponsorship]
+
+Peter said that one concern he had about accepting sponsorship was
+that it might alter our relationship with NTi, who allow us to use OBH
+free of charge, and if it became apparent that we had money, or had
+access to money, that relationship might change.  It was agreed that
+Peter (and Simon?) should arrange to meet with Geoff Gifford, our
+contact at NTi, and discuss this, and possibly suggest that we should
+offer to make NTi a sponsor along with TTP. [Action for Peter -
+Arrange to meet with Geoff]
+
+We discussed whether we should try to avoid arrangements that would
+involve us accepting money directly, as this would involve needing a
+bank account and therefore a whole load of bureaucracy, possibly up to
+having to register a company.  It was remarked that this probably
+wouldn't be all that bad [I don't remember who said it].  Peter asked
+what we would do with money if we had it.  Simon suggested we could
+buy some pet reptiles.
+
+Website
+=======
+
+Matt said that he's happy to continue hosting the website such as it
+is until it makes sense to move it elsewhere.
+
+Simon suggested that we hold a Dojo evening where we work on a
+website.  Simon also volunteered to spend some time working on a
+better stylesheet for the rst2html output that we've been
+using. [Action for Simon - Spend some time working on styling the announcements]
+
+We discussed the offer we've received from a member of the
+West-Midlands group, who is working on their website.  We agreed that
+we should email him with our ideas, and an offer to work with
+him.  The ideas we came up with were:
+
+* An RSS feed for event announcements only, and another one for all
+  new content.
+* A calendar feed, possibly through integration with Google Calendar
+* A system for posting event announcements to various mailing lists,
+  and possibly also Twitter
+* A space for hosting talk slides.
+
+[Action for Peter: Contact the guy]
+
+The question of whether we should be making better use of Google Plus
+was raised.  It was agreed that it might be useful to make use of the
+Pages feature in the short term to supplement our poor existing
+provision.  However there was no interest in moving to having this as
+our primary website, and there was agreement that we should continue
+to have our own domain.
+
+There was a brief discussion of what protocols we should be looking at
+other than HTTP, for example Gopher, Finger, and a Telnet BBS.  These
+ideas were roundly thought to be excellent, if anyone has the time :-)
+
+Finally, Simon raised the spectre of having a logo for the group.  We
+all agreed that this would be a great idea, but not having a graphic
+designer or artist amongst us, we didn't think anyone could do a good
+enough job for it to be an asset to us.
+
+WYPy or Leeds
+=============
+
+The discussion of the logo brought us onto whether we should consider
+ourselves a West Yorkshire group, or a Leeds group (Leeds would
+suggest Owls, whereas West Yorkshire is more likely Sheep or
+flatcaps).
+
+Most of the voices speaking seemed to be in favour of being a Leeds
+group.  Peter said that he wanted us to reach out to people in
+neighbouring towns, and that it was inclusive.  However this was
+countered by Simon, who pointed out that it was arbitrary to be
+reaching out to people in Bradford or Halifax, but not to York, which
+is no harder to get to.
+
+We discussed what we might call ourselves if we were a Leeds group,
+since WYPy is a pretty good name.  Someone (possibly Tony?) suggested
+PLUG, for Python Leeds User Group.
+
+Peter brought the conversation to an end by saying that he already
+owns two domain names for the group, and didn't much fancy having to
+buy another for a while, so he was making an executive decision that
+we would leave the name as it is for the coming year.
+
+Time of Meetings
+================
+
+A conversation took place regarding what time meetings should be.
+This was a finely balanced matter.  Peter said that he thought it was
+important that people could come after work from outside Leeds, and could eat
+before arriving.  He said he didn't think it was reasonable to start
+talks much before half past seven.
+
+Daley responded that he doesn't struggle to get to the meetings in
+good time, and that by making the meeting start later we risk people
+have to leave for trains before the end of a talk.  He said that this
+had happened to him before.
+
+Simon raised the issue of when we end, saying that it might be
+important to tell people when meetings are going to finish, so that
+they can arrange to meet in the pub.  He also said that we should be
+clear in our communications about the start time.  Up until now we've
+been putting the earlier time of 6.30 before the time the talks start
+(7.30).
+
+Leeds Groups Group
+==================
+
+Someone [who?] suggested that we should try to collaborate with other
+groups in the area for cross promotion, and sharing ideas.  We could
+have a mailing list for local announcements, and occasional meetings
+of group leaders.  Peter said that he would try to get in touch with
+some of the other groups and suggest this. [Action for Peter - Contact
+other Leeds and West Yorkshire tech. groups to arrange a group of groups]
+
+Outreach
+========
+
+We discussed what we could do to promote the group besides the cross
+promotion that would come from the group of groups.  One idea was to
+try to promote the group to Leeds students.
+
+Next Meeting
+============
+
+The next meeting will be on the 10th of May.  Simon volunteered a talk
+entitled "The Twisted Toolbox - A case study."
+
+Actions
+=======
+
+Peter
+-----
+
+* Go to XP Manchester, it sounds like fun.
+* Arrange quarterly events.
+* Make an agreement with TTP regarding sponsorship
+* Arrange to meet with Geoff
+* Contact the guy about the website
+* Contact other Leeds and West Yorkshire tech. groups to arrange a
+  group of groups
+
+Matt
+----
+
+* Set up poll for date
+
+Tony
+----
+
+* Action for Tony - Contact some Pubs, as potential venues
+
+Simon
+-----
+* Contact the PSF and see what support they provide to user groups
+* Speak to colleagues at Canonical about sponsorship for group.
+* Spend some time working on styling the announcements
+* Write talk for the next meeting.
