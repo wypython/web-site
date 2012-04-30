@@ -1,0 +1,57 @@
+==========================================================
+ West Yorkshire Python User Group Meeting - Thurs. 10 May
+==========================================================
+
+----------------------------------------
+ Talk: The Twisted Toolbox - Simon Davy
+----------------------------------------
+
+There are many asynchronous networking libraries for Python, but
+Twisted has been around the longest by far. Although it suffers from a
+mixed reputation (some deserved, some not), it has one killer
+capability that no other async framework has - it's protocol
+library. Nearly all standard Internet protocols come implemented
+out-of-the-box on twisted, and when you need it, it's just brilliant.
+
+We will look at a simple in-memory SMTP *and* IMAP server written to
+speed up acceptance test runs involving email. This will include
+implementing Twisted SMTP and IMAP interfaces, as well as
+Twisted.cred, the AUTHN/Z framework.
+
+This talk will not assume any prior knowledge of Twisted, but will aim
+to make the case that in this use case, Twisted is hard to beat.
+
+
+Date and Time
+=============
+
+Thursday 10 May, talk from 7:30pm.
+
+If you want to arrive before the talk, the venue will be open from
+about 6.30.  We will be finished by 9, and we will be going to the pub
+afterwards.
+
+
+Location
+========
+
+| Old Broadcasting House
+| 148 Woodhouse Lane
+| Leeds
+| LS2 9EN
+
+We will be holding the talk in the boardroom at the back of the ground
+floor of the building.  If you arrive late we may not hear the
+doorbell, so please phone Peter on 07763 570 860.
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
