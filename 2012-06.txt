@@ -1,0 +1,53 @@
+==========================================================
+ West Yorkshire Python User Group Meeting - Thurs. 14 June
+==========================================================
+
+-------------------------------
+ Talk: Comparing Go and Python
+-------------------------------
+
+Go is a new language with a long pedigree. It was designed at Google
+by Rob Pike (one of the designers of Unix) and Ken Thomson (one of the
+designers of C).  Go seems to be gaining traction as an environment
+for developing simple, efficient applications.
+
+Matt Goodall (@atomatt) will be introducing us to Go; showing us some
+of the key aspects of the language and the runtime's concurrency
+primitives by building a simple server application.
+
+Throughout we will be comparing Go with Python, looking at where it
+would be a better fit, and where Python wins.
+
+Date and Time
+=============
+
+Thursday 14 May, talk from 7:30pm.
+
+If you want to arrive before the talk, the venue will be open from
+about 6.30.  We will be finished by 9, and we will be going to the pub
+afterwards.
+
+
+Location
+========
+
+| Old Broadcasting House
+| 148 Woodhouse Lane
+| Leeds
+| LS2 9EN
+
+We will be holding the talk in the boardroom at the back of the ground
+floor of the building.  If you arrive late we may not hear the
+doorbell, so please phone Peter on 07763 570 860.
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
