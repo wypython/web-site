@@ -2,9 +2,9 @@
  West Yorkshire Python User Group Meeting - Thurs. 14 June
 ==========================================================
 
--------------------------------
- Talk: Comparing Go and Python
--------------------------------
+-------------------------------------------------
+ Talk: Go From a Python Programmer's Perspective
+-------------------------------------------------
 
 Go is a new language with a long pedigree. It was designed at Google
 by Rob Pike (one of the designers of Unix) and Ken Thomson (one of the
@@ -15,8 +15,6 @@ Matt Goodall (@atomatt) will be introducing us to Go; showing us some
 of the key aspects of the language and the runtime's concurrency
 primitives by building a simple server application.
 
-Throughout we will be comparing Go with Python, looking at where it
-would be a better fit, and where Python wins.
 
 Date and Time
 =============
