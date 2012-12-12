@@ -1,0 +1,55 @@
+===============================================================
+ West Yorkshire Python User Group Meeting - Thurs. 13 December
+===============================================================
+
+---------------------------------------
+ Talk: Simon Davy, Unit testing Django
+---------------------------------------
+
+Django includes a test framework that is very convenient and widely
+used. It includes test database set up, fixtures, and a convenient way
+of calling your via Django's framework.
+
+However, it is actually testing your application at integration level,
+rather than at *unit* level. Integration tests are good, but so are
+unit tests! (which test smaller areas and run faster).
+
+In this talk we'll look at three different ways to use standard unit
+testing techniques when testing django applications to write actual
+unit tests.
+
+
+Date and Time
+=============
+
+Thursday 13 November, talk from 7:30pm.
+
+If you want to arrive before the talk, the venue will be open from
+about 6.30.  We will be finished by 9, and we will be going to the pub
+afterwards.
+
+
+Location
+========
+
+We will be meeting at the offices of The Test People:
+
+| Floor 3
+| Albion Court
+| Albion Place
+| Leeds
+| West Yorkshire,
+| LS1 6JL
+
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
