@@ -1,0 +1,58 @@
+===============================================================
+ West Yorkshire Python User Group Meeting - Thurs. ?? February
+===============================================================
+
+----------------------------------------------------
+ Invited Talk: Alex Valavanis - Inkscape and Python
+----------------------------------------------------
+
+This month we have another exciting guest speaker! Alex Valavanis is a
+member of the development team of Inkscape; a popular open source
+vector graphics editor.
+
+Alex will be telling us about how he became involved with Inkscape,
+what he does on the project, giving an architectural overview of the
+software, and throwing in some Python interest by talking about
+writing extensions.
+
+We expect the talk to be of interest to all programmers of all skill
+levels.  It won't be particularly Python-heavy.
+
+
+Date and Time
+=============
+
+Thursday ?? February, talk from 7:30pm.
+
+If you want to arrive before the talk, the venue will be open from
+about 6.30.  We will be finished by 9, and we will be going to the pub
+afterwards.
+
+
+Location
+========
+
+We will be meeting at the offices of The Test People:
+
+| Floor 3
+| Albion Court
+| Albion Place
+| Leeds
+| West Yorkshire,
+| LS1 6JL
+
+You will need to call Peter on 07763570860 for access, as we can't hear the buzzer at
+the door.
+
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
