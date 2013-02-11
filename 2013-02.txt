@@ -1,6 +1,8 @@
 ===============================================================
- West Yorkshire Python User Group Meeting - Thurs. ?? February
+ West Yorkshire Python User Group Meeting - Thurs. 21 February
 ===============================================================
+
+** Note the different date **
 
 ----------------------------------------------------
  Invited Talk: Alex Valavanis - Inkscape and Python
@@ -22,7 +24,7 @@ levels.  It won't be particularly Python-heavy.
 Date and Time
 =============
 
-Thursday ?? February, talk from 7:30pm.
+Thursday 21 February, talk from 7:30pm.
 
 If you want to arrive before the talk, the venue will be open from
 about 6.30.  We will be finished by 9, and we will be going to the pub
@@ -41,8 +43,8 @@ We will be meeting at the offices of The Test People:
 | West Yorkshire,
 | LS1 6JL
 
-You will need to call Peter on 07763570860 for access, as we can't hear the buzzer at
-the door.
+You will need to call Peter on 07763570860 for access, as we can't
+hear the buzzer at the door.
 
 
 About the Group
