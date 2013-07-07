@@ -10,7 +10,7 @@ This month Simon Davy is going to be leading a coding session.
 
 About the session
 =================
-Since pycon UK last year, Simon has been exploring the idea of doing more with
+Since PyCon UK last year, Simon has been exploring the idea of doing more with
 Python's turtle module, specifically using it for more fun, engaging and
 progressively more advanced ways of teaching children.
 
@@ -23,7 +23,7 @@ We'll then split into pairs and attempt to program a few of these ideas in
 one hour, and then get back together to see what we've got. The goals are a) to
 try it out as an exercise, b) have some examples to show, c) find friction
 points and discover what things would need to be provided for novice
-programmers to be succesful.
+programmers to be successful.
 
 I hope that we'll end up committing some bare bones examples to the
 Github organisation (and also participate in Julython).
