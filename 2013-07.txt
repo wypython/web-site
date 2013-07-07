@@ -1,0 +1,72 @@
+===========================================================
+ West Yorkshire Python User Group Meeting - Thurs. 11 July
+===========================================================
+
+------------------------------------------
+ Coding Session: Turtles All The Way Down
+------------------------------------------
+
+This month Simon Davy is going to be leading a coding session.
+
+About the session
+=================
+Since pycon UK last year, Simon has been exploring the idea of doing more with
+Python's turtle module, specifically using it for more fun, engaging and
+progressively more advanced ways of teaching children.
+
+Simon will do a short (20min max) overview of what he's been doing
+(OpenGL renderer, standalone implementation, enhanced existing
+version), and what he's planning (physics), and then talk about some
+of the lesson/task ideas.
+
+We'll then split into pairs and attempt to program a few of these ideas in
+one hour, and then get back together to see what we've got. The goals are a) to
+try it out as an exercise, b) have some examples to show, c) find friction
+points and discover what things would need to be provided for novice
+programmers to be succesful.
+
+I hope that we'll end up committing some bare bones examples to the
+Github organisation (and also participate in Julython).
+
+Who's it for?
+=============
+This session should be suitable for all.  People who are just getting
+started with Python might particularly like it, as you'll have the
+chance program with an experienced Python user.
+
+Date and Time
+=============
+
+Thursday 11 June.  Talk at 7.30.
+
+If you want to arrive before the talk, The venue will be open from
+about 6.30.  We will be finished at around 9, and we will be going to
+the pub afterwards.
+
+Location
+========
+
+We will be meeting at the offices of The Test People:
+
+| Floor 3
+| Albion Court
+| Albion Place
+| Leeds
+| West Yorkshire,
+| LS1 6JL
+
+You will need to call Peter on 07763570860 for access, as we can't
+hear the buzzer at the door.
+
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
