@@ -1,0 +1,71 @@
+===============================================================
+ West Yorkshire Python User Group Meeting - Thurs. 14 November
+===============================================================
+
+---------------------------------------
+Talk/Demos: Geist UI Automation Library
+---------------------------------------
+
+This month Tony Simpson from The Test People (TTP) will be unveiling
+the Geist UI Automation Library which has been developed by The Test
+People and is being released under a permissive open source licence.
+
+About the session
+=================
+
+Geist is a Python library which provides a simple API for writing code
+which does visual automation of a user interface, this allows you to
+write programs or tests which interact with visual interfaces in a way
+similar to a human user.
+
+TTP has developed Geist to allow them to reduce the time taken to
+implement functional and performance testing on technologies that are
+diverse or resistant to UI Object automation approached.
+
+Things that will be covered:
+
+* The history and future of Geist;
+* The Geist library and how it works;
+* Discussion around applicability and approach.
+
+Who's it for?
+=============
+This session should be suitable for all. Anyone with an interest in
+automation or testing may find it particularly interesting.
+
+Date and Time
+=============
+
+Thursday 14 November.  Talk at 7.30.
+
+If you want to arrive before the talk, The venue will be open from
+about 6.30.  We will be finished at around 9, and we will be going to
+the pub afterwards.
+
+Location
+========
+
+We will be meeting at the offices of The Test People:
+
+| Floor 3
+| Albion Court
+| Albion Place
+| Leeds
+| West Yorkshire,
+| LS1 6JL
+
+You will need to call Peter on 07763570860 for access, as we can't
+hear the buzzer at the door.
+
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
