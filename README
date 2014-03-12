@@ -1,0 +1,11 @@
+Releasing an Update
+===================
+
+1. Write a new reST .txt file for the month.
+2. Build the HTML `./build.sh <month.txt>`.
+3. Check HTML by either opening templates/index.html in a browser or running
+   `gunicorn wy:app` and opening http://localhost:8000/.
+4. Commit the .txt file and the generated templates/index.html.
+5. Push to Heroku's git repo (git@heroku.com:wypy.git).
+
+Don't forget to push to the "official" git repo too.
