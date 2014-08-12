@@ -1,0 +1,66 @@
+==============================================================
+ West Yorkshire Python User Group Meeting - Thurs. 14th August
+==============================================================
+
+
+This week we have a talk from Peter Russell.
+
+
+Simple Selenium Test - A case study
+====================================
+
+Simple Selenium Test (SST, http://testutils.org/sst/ ) is an open source Python
+framework for writing automated tests for web applications.  SST tests use
+Selenium Webdriver to drive real web browsers around the system under test.
+
+ * The Test People recently used SST for the first time in a large project for a client.  In this talk I'll cover:
+ * How SST compares with other approaches to writing automated functional tests for webapps.
+ * Why we thought SST was an appropriate choice for this project
+ * What changes we needed to make to the framework to support our needs
+ * What changes I'd like to see in the future
+ * Whether SST lived up to its promise
+
+
+Peter Russell is a Senior Consultant working at The Test People.
+
+Who's it for?
+=============
+
+This talk should be suitable for people of all levels of Python experience.  It may be of particular interest to people involved in testing or web development.
+
+Date and Time
+=============
+
+Thursday 14 August.  Talk at 7.30.
+
+If you want to arrive before the talk, The venue will be open from
+about 6.30.  We will be finished at around 9, and we will be going to
+the pub afterwards.
+
+Location
+========
+
+We will be meeting at the offices of The Test People:
+
+| Floor 3
+| Albion Court
+| Albion Place
+| Leeds
+| West Yorkshire,
+| LS1 6JL
+
+You will need to call Peter on 07763570860 for access, as we can't
+hear the buzzer at the door.
+
+
+About the Group
+===============
+
+The West Yorkshire Python User Group (WYPy) have been meeting monthly
+since 2007.  Our meetings are free, and usually include at least one
+talk, as well as a trip to the pub.
+
+Our website is at http://wypy.org.uk .  We discuss our meetings on the
+Python Yorkshire and Humberside Google Group
+http://groups.google.com/group/python-yorks-humber/ and you can also
+follow us on Twitter at @WYPython.
