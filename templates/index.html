@@ -1,79 +1,66 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="Docutils 0.11: http://docutils.sourceforge.net/" />
-<title>West Yorkshire Python User Group Meeting - Thurs. 12th Sept</title>
-<style type="text/css">
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>WYPy - West Yorkshire Python User Group</title>
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet" />
+        <style>
+        .previous-meetings .year {
+            font-weight: bold;
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+        </style>
+    </head>
+    <body>
 
-html {
-    background-color: lightsteelblue;
-}
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/">WYPy - West Yorkshire Python User Group</a>
+                </div>
+            </div>
+        </nav>
 
-body {
-    margin: 5em 5em;
-    padding: 0 0;
-    background-color: #FFF;
-}
+        <div class="container">
+            <div class="row">
 
-div.document {
-    padding: 2em 2em;
+                <div class="col-md-9">
+                    <h1>{{ meeting["title"] }}</h1>
+                    {{ meeting["body"]|safe }}
+                </div>
 
-}
+                <div class="col-md-3">
 
-</style>
-</head>
-<body>
-<div class="document" id="west-yorkshire-python-user-group-meeting-thurs-12th-sept">
-<h1 class="title">West Yorkshire Python User Group Meeting - Thurs. 12th Sept</h1>
+                    <div class="future-meetings">
+                        <h2>Coming up</h2>
+                        {% if future %}
+                            <p><a href="{{ future[0]['date'].strftime('%Y-%m') }}">{{ future[0]["date"] }} - {{ future[0]["title"] }}</a></p>
+                        {% else %}
+                            <p>Nothing scheduled yet. Please check back soon.</p>
+                        {% endif %}
+                    </div>
 
-<p>This week we have a talk from James Westby</p>
-<div class="section" id="encouraging-contributions-to-your-open-source-project">
-<h1>Encouraging Contributions To Your Open Source Project</h1>
-<p>The way you treat first-time contributions to your open source project is very
-important if you wish to receive more. Not only will a bad experience put the
-submitter off, but the open nature of the project means that potential future
-submitters may see the response and decide to put their time in elsewhere.</p>
-<p>Learn some of the things that you can do after putting your code on github to
-encourage contributions, from documentation to review, and how to help
-a submitter bring a patch up to your standards.</p>
-<p>James is long-time open source contributer who works in Online Services for Canonical.</p>
-</div>
-<div class="section" id="who-s-it-for">
-<h1>Who's it for?</h1>
-<p>This talk should be suitable for people of all levels of experience.</p>
-</div>
-<div class="section" id="date-and-time">
-<h1>Date and Time</h1>
-<p>Thursday 12 September.  Talk at 7.30.</p>
-<p>If you want to arrive before the talk, The venue will be open from
-about 6.30.  We will be finished at around 9, and we will be going to
-the pub afterwards.</p>
-</div>
-<div class="section" id="location">
-<h1>Location</h1>
-<p>We will be meeting at the offices of The Test People:</p>
-<div class="line-block">
-<div class="line">Floor 4</div>
-<div class="line">Albion Court</div>
-<div class="line">Albion Place</div>
-<div class="line">Leeds</div>
-<div class="line">West Yorkshire,</div>
-<div class="line">LS1 6JL</div>
-</div>
-<p>There will be a note on the door with a number to call and buzz you in.</p>
-</div>
-<div class="section" id="about-the-group">
-<h1>About the Group</h1>
-<p>The West Yorkshire Python User Group (WYPy) have been meeting monthly
-since 2007.  Our meetings are free, and usually include at least one
-talk, as well as a trip to the pub.</p>
-<p>Our website is at <a class="reference external" href="http://wypy.org.uk">http://wypy.org.uk</a> .  We discuss our meetings on the
-Python Yorkshire and Humberside Google Group
-<a class="reference external" href="http://groups.google.com/group/python-yorks-humber/">http://groups.google.com/group/python-yorks-humber/</a> and you can also
-follow us on Twitter at &#64;WYPython.</p>
-</div>
-</div>
-</body>
+                    <div class="previous-meetings">
+                        <h3>Previous meetings</h3>
+                        <ol class="list-unstyled">
+                            {% for group in previous|groupby("date.year")|reverse %}
+                            <li>
+                                <p class="year">{{ group.grouper }}</p>
+                                <ol class="list-unstyled list-inline">
+                                    {% for m in group.list %}
+                                    <li><a href="{{ m['date'].strftime('%Y-%m') }}">{{ m["date"] }}</a></li>
+                                    {% endfor %}
+                                </ol>
+                            </li>
+                            {% endfor %}
+                        </ol>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </body>
 </html>
