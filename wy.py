@@ -57,11 +57,6 @@ def index():
     return render_meeting()
 
 
-@app.route("/favicon.ico")
-def favicon():
-    return ""
-
-
 @app.route("/<date>")
 def meeting(date):
     return render_meeting(date)
