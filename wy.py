@@ -77,7 +77,13 @@ def render_meeting(date=None):
     # Load all meetings and pivot around today's date.
     meetings = pivot_meetings(data.meetings())
     # Decide what meeting to treat as the page's meeting.
-    meeting = meetings["current"] if not date else data.meeting(date)
+    if not date:
+        meeting = meetings["current"]
+    else:
+        try:
+            meeting = data.meeting(date)
+        except DataError as e:
+            return e.reason, e.status
     return flask.render_template(
         "index.html",
         meeting=meeting,
