@@ -1,8 +1,16 @@
 import datetime
 import docutils.core
+import errno
 import flask
+import httplib
 import os
 import os.path
+
+
+class DataError(Exception):
+    def __init__(self, status, reason=None):
+        self.status = status
+        self.reason = reason if reason else httplib.responses[status]
 
 
 class Data(object):
@@ -37,8 +45,11 @@ class Data(object):
         """
         Load a meeting from disk.
         """
-        with open(os.path.join(self.path, filename)) as f:
-            rst = f.read()
+        try:
+            with open(os.path.join(self.path, filename)) as f:
+                rst = f.read()
+        except IOError as e:
+            raise DataError(404) if e.errno == errno.ENOENT else e
         parts = docutils.core.publish_parts(rst, writer_name="html")
         return {
             "date": second_thursday(os.path.splitext(filename)[0]),
