@@ -50,7 +50,11 @@ class Data(object):
                 rst = f.read()
         except IOError as e:
             raise DataError(404) if e.errno == errno.ENOENT else e
-        parts = docutils.core.publish_parts(rst, writer_name="html")
+        parts = docutils.core.publish_parts(
+            rst,
+            writer_name="html",
+            settings_overrides={"initial_header_level": 3}
+        )
         return {
             "date": second_thursday(os.path.splitext(filename)[0]),
             "title": parts["title"],
