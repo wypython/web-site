@@ -13,6 +13,10 @@
         .header h1 a {
             color: inherit;
         }
+        .current-meeting .permalink {
+            font-size: 14px;
+            vertical-align: middle;
+        }
         .previous-meetings .year {
             font-weight: bold;
             margin-top: 10px;
@@ -40,8 +44,11 @@
 
             <div class="row">
 
-                <div class="col-md-9">
-                    <h1>{{ meeting["title"] }}</h1>
+                <div class="col-md-9 current-meeting">
+                    <h1>
+                        {{ meeting["title"] }}
+                        <a class="permalink" href="{{ meeting['date'].strftime('%Y-%m') }}"><i class="glyphicon glyphicon-link"></i></a>
+                    </h1>
                     {{ meeting["body"]|safe }}
                 </div>
 
