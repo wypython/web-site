@@ -23,14 +23,14 @@ Date and Time
 
 Thursday 14th May.  Starting at 7.30pm.
 
-If you want to arrive before the talk, the venue will be open from
-about 7.00pm.  We will finish at around 8.30pm-9.00pm, and will be going to the
-White Swan pub afterwards.
+If you want to arrive before the talk, the venue will be open from about
+7.00pm.  We will finish at around 8.30pm-9.00pm, and will be going to
+`The White Swan`_ pub afterwards.
 
 Location
 ========
 
-We will be meeting at the offices of The Test People:
+We will be meeting at the offices of `The Test People`_:
 
 | Floor 4
 | Albion Court
@@ -48,7 +48,12 @@ The West Yorkshire Python User Group (WYPy) have been meeting monthly since
 2007. Our meetings are free, and usually include at least one talk, as well as
 a trip to the pub.
 
-Our website is at http://wypy.org.uk/. We discuss our meetings on the Python
-Yorkshire and Humberside Google Group
-http://groups.google.com/group/python-yorks-humber/ and you can also follow us
-on Twitter at `@WYPython <https://twitter.com/WYPython>`_.
+Our website is at http://wypy.org.uk/. We discuss our meetings on the `Python
+Yorkshire and Humberside Google Group`_ and you can also follow us on Twitter
+at `@WYPython`_.
+
+
+.. _@WYPython: https://twitter.com/WYPython
+.. _Python Yorkshire and Humberside Google Group: http://groups.google.com/group/python-yorks-humber/
+.. _The Test People: https://www.google.co.uk/maps/place/The+Test+People/@53.7983881,-1.5436188,18z/data=!4m2!3m1!1s0x48795c1be3f15231:0x2c1ff134a7403570
+.. _The White Swan: https://www.google.co.uk/maps/place/The+Swan/@53.799001,-1.543131,18z/data=!3m1!4b1!4m2!3m1!1s0x48795c1bc0c8dd41:0xdf7f6f1765fadc5b
