@@ -4,14 +4,11 @@ body: |
     This month we have decided to do some good for the world, by porting Matt Goodall's web framework Restish to Python 3.
     Matt is a member of the group, so we'll have all the context we could hope for.
 
-    You can find the source for Restish here[1] and the early work on porting it to Python 3 here[2].
+    You can find the source for `Restish here <https://github.com/ish/restish>`_ and the early work on porting it to Python 3 `here <https://github.com/warsaw/restish/tree/py33>`_.
 
     Don't worry if you're new to Python 3 (a lot of us are), or even to Python, we'll muddle through and figure it out!
 
     You should probably bring a laptop with Python 2.6 or higher and Python 3.3 installed if you have one available.
-
-    [1] https://github.com/ish/restish
-    [2] https://github.com/warsaw/restish/tree/py33
 
     Date and Time
     =============

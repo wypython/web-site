@@ -1,0 +1,42 @@
+title: "Simple Selenium Test - A case study"
+date: 2014-08-14
+body: |
+    Simple Selenium Test (SST, http://testutils.org/sst/ ) is an open source Python framework for writing automated tests for web applications.
+    SST tests use Selenium Webdriver to drive real web browsers around the system under test.
+
+     * The Test People recently used SST for the first time in a large project for a client.  In this talk I'll cover:
+     * How SST compares with other approaches to writing automated functional tests for webapps.
+     * Why we thought SST was an appropriate choice for this project
+     * What changes we needed to make to the framework to support our needs
+     * What changes I'd like to see in the future
+     * Whether SST lived up to its promise
+
+    Peter Russell is a Senior Consultant working at The Test People.
+
+    Who's it for?
+    =============
+
+    This talk should be suitable for people of all levels of Python experience.
+    It may be of particular interest to people involved in testing or web development.
+
+    Date and Time
+    =============
+
+    Thursday 14 August.  Talk at 7.30.
+
+    If you want to arrive before the talk, The venue will be open from about 6.30.
+    We will be finished at around 9, and we will be going to the pub afterwards.
+
+    Location
+    ========
+
+    We will be meeting at the offices of The Test People:
+
+    | Floor 3
+    | Albion Court
+    | Albion Place
+    | Leeds
+    | West Yorkshire,
+    | LS1 6JL
+
+    You will need to call Peter on 07763570860 for access, as we can't hear the buzzer at the door.
