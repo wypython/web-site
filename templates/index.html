@@ -65,7 +65,11 @@
                     <div class="future-meetings">
                         <h2>Coming up</h2>
                         {% if future %}
-                            <p><a href="{{ future[0]['date'].strftime('%Y-%m') }}">{{ future[0]["date"] }} - {{ future[0]["title"] }}</a></p>
+                            <ol class="list-unstyled">
+                            {% for m in future %}
+                                <li><a href="{{ m['date'].strftime('%Y-%m') }}">{{ m['date'].strftime('%B') }} - {{ m["title"] }}</a></li>
+                            {% endfor %}
+                            </ol>
                         {% else %}
                             <p>Nothing scheduled yet. Please check back soon.</p>
                         {% endif %}
