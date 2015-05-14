@@ -21,6 +21,10 @@
         .header a {
             color: rgb(251, 210, 86);
         }
+		    .dimmed {
+				    margin-top: 0;
+				    color: rgb(250, 200, 69);;
+			  }
         .current-meeting .permalink {
             font-size: 14px;
             vertical-align: middle;
@@ -33,7 +37,6 @@
         </style>
     </head>
     <body>
-
         <div class="jumbotron header">
             <div class="container">
                 <h1><a href="/">West Yorkshire Python User Group</a></h1>
@@ -48,15 +51,13 @@
         </div>
 
         <div class="container">
-
-
             <div class="row">
-
                 <div class="col-md-9 current-meeting">
                     <h2>
-                        {{ meeting["title"] }} - {{ meeting["date"] }}
-                        <a class="permalink" href="{{ meeting['date'].strftime('%Y-%m') }}"><i class="glyphicon glyphicon-link"></i></a>
+                        {{ meeting["title"] }}
+						            <a class="permalink" href="{{ meeting['date'].strftime('%Y-%m') }}"><i class="glyphicon glyphicon-link"></i></a>
                     </h2>
+					          <h3 class="dimmed">{{ '{dt:%A} {dt:%B} {dt.day}, {dt.year}'.format(dt=meeting["date"]) }}</h3>
                     {{ meeting["body"]|safe }}
                 </div>
 
@@ -95,8 +96,6 @@
                             {% endfor %}
                         </ol>
                     </div>
-
-
                 </div>
             </div>
         </div>
