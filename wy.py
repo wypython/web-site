@@ -5,6 +5,7 @@ import flask
 import httplib
 import os
 import os.path
+import yaml
 
 
 class DataError(Exception):
@@ -28,7 +29,7 @@ class Data(object):
         # Load all meeting files and extract date from filename.
         meetings = []
         for filename in os.listdir(self.path):
-            if not filename.endswith(".txt"):
+            if not filename.endswith(".yaml"):
                 continue
             meetings.append(self._meeting_from_file(filename))
         # Sort in reverse date order.
@@ -39,7 +40,7 @@ class Data(object):
         """
         Get meeting for given date.
         """
-        return self._meeting_from_file(date + ".txt")
+        return self._meeting_from_file(date + ".yaml")
 
     def _meeting_from_file(self, filename):
         """
@@ -47,19 +48,16 @@ class Data(object):
         """
         try:
             with open(os.path.join(self.path, filename)) as f:
-                rst = f.read()
+                doc = yaml.safe_load(f)
         except IOError as e:
             raise DataError(404) if e.errno == errno.ENOENT else e
         parts = docutils.core.publish_parts(
-            rst,
+            doc['body'],
             writer_name="html",
             settings_overrides={"initial_header_level": 3}
         )
-        return {
-            "date": second_thursday(os.path.splitext(filename)[0]),
-            "title": parts["title"],
-            "body": parts["body"]
-        }
+        doc["body"] = parts["body"]
+        return doc
 
 
 # Create data accessor and Flask app
@@ -121,19 +119,6 @@ def pivot_meetings(meetings):
     split["future"].reverse()
 
     return split
-
-
-def second_thursday(year_month):
-    year, month = map(int, year_month.split("-"))
-    date = datetime.date(year, month, 1)
-    count = 2
-    while True:
-        if date.weekday() == 3:
-            count -= 1
-            if not count:
-                break
-        date += datetime.timedelta(days=1)
-    return date
 
 
 if __name__ == "__main__":

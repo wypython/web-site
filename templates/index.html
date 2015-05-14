@@ -54,7 +54,7 @@
 
                 <div class="col-md-9 current-meeting">
                     <h2>
-                        {{ meeting["title"] }}
+                        {{ meeting["title"] }} - {{ meeting["date"] }}
                         <a class="permalink" href="{{ meeting['date'].strftime('%Y-%m') }}"><i class="glyphicon glyphicon-link"></i></a>
                     </h2>
                     {{ meeting["body"]|safe }}
