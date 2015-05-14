@@ -1,8 +1,7 @@
 title: "Suggestions on designing a flexible framework"
 date: 2014-06-12
+speaker: Maik Hoepfel
 body: |
-    Maik Hoepfel
-
     Oscar is a Django e-commerce framework designed for flexibility.
     It employs a range of techniques that allow to swap out every aspect of it.
     In this way it can be used to capture a wide range of e-commerce requirements, but the framework code still stays sane.

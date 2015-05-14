@@ -1,10 +1,7 @@
-title: The Twisted Toolbox - Simon Davy
+title: The Twisted Toolbox
 date: 2012-05-10
+speaker: Simon Davy
 body: |
-    ----------------------------------------
-     Talk: The Twisted Toolbox - Simon Davy
-    ----------------------------------------
-
     There are many asynchronous networking libraries for Python, but Twisted has been around the longest by far.
     Although it suffers from a mixed reputation (some deserved, some not), it has one killer capability that no other async framework has - it's protocol library.
     Nearly all standard Internet protocols come implemented out-of-the-box on twisted, and when you need it, it's just brilliant.

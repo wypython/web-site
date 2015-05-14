@@ -1,8 +1,7 @@
 title: "Monitoring things that aren't computers"
 date: 2014-04-10
+speaker: Tom Wardill
 body: |
-    Tom Wardill
-
     A brief overview of techniques, approaches and some code for monitoring anything that isn't a computer.
     Mostly using some cheap parts and some python.
 

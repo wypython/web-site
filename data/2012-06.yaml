@@ -1,10 +1,6 @@
 title: Go From a Python Programmer's Perspective
 date: 2012-06-14
 body: |
-    -------------------------------------------------
-     Talk: Go From a Python Programmer's Perspective
-    -------------------------------------------------
-
     Go is a new language with a long pedigree.
     It was designed at Google by Rob Pike (one of the designers of Unix) and Ken Thomson (one of the designers of C).
     Go seems to be gaining traction as an environment for developing simple, efficient applications.
