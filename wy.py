@@ -110,9 +110,9 @@ def pivot_meetings(meetings):
 
     # Select best meeting to use as "current".
     if split["future"]:
-        split["current"] = split["future"].pop()
+        split["current"] = split["future"][-1]
     else:
-        split["current"] = split["previous"].pop(0)
+        split["current"] = split["previous"][0]
 
     # Reverse future meetings so they're in data order, i.e. moving away from
     # the pivot date.
