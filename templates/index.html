@@ -87,7 +87,7 @@
                             {% for group in previous|groupby("date.year")|reverse %}
                             <li>
                                 <p class="year">{{ group.grouper }}</p>
-                                <ol class="list-unstyled list-inline">
+                                <ol class="list-unstyled">
                                     {% for m in group.list %}
                                     <li>{{ m['date'].strftime('%B') }} - <a href="{{ m['date'].strftime('%Y-%m') }}">{{ m["title"] }}</a></li>
                                     {% endfor %}
