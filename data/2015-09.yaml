@@ -10,9 +10,9 @@ body: |
     from CMSs, to forums, eCommerce sites and more, there's a lot of actively
     developed/used code out there.
 
-    Follow along with me as I attempt to explain the most appealing features,
-    similarities, galloping differences between PHP and Python, and why you
-    should care:
+    Follow along with Wes as he attempts to explain the most appealing
+    features, similarities, galloping differences between PHP and Python, and
+    why Python developers should care:
 
     - Similarities (generators, traits, functional, modules).
     - Managing dependencies and distributing packages with Composer.
