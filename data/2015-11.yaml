@@ -1,0 +1,45 @@
+title: Hypothesis, a QuickCheck style testing library for Python
+date: 2015-11-12
+body: |
+
+    This month Peter Russell will be talking about Hypothesis.
+
+    Hypothesis is a Python testing library in the spirit of the Haskell and
+    OCaml tool QuickCheck.  It is developed by Daved R. MacIver.  It is
+    designed to be used alongside a normal unittest tool, but it works like a
+    poor man's theorem prover: you write tests for your code that specify
+    properties like, “for any valid input, this function should always return a
+    non-empty list”, and the tool searches for a way to make the test fail.
+
+    In this talk we´ll be looking at the basics of using Hypothesis to test
+    code, including some worked examples.  We may look a little into how it
+    works, and hopefully also be looking at how it can be used to implement
+    model based testing of more complicated systems.
+
+    Date and Time
+    =============
+
+    Thursday 12th November.  Starting at 7.30pm.
+
+    If you want to arrive before the talk, the venue will be open from about
+    7.00pm.  We will finish at around 8.30pm-9.00pm, and will be going to
+    `The Wardrobe`_ pub afterwards.
+
+    Location
+    ========
+
+    We will be meeting at `ODI Leeds`_:
+
+    | 3rd Floor Munro House
+    | Duke St
+    | Leeds
+    | LS9 8AG
+    | http://leeds.theodi.org/
+
+    There will be a note on the door when you arrive. Please call or txt the
+    number and someone will come down to let you in.
+
+    .. _The Test People: https://www.google.co.uk/maps/place/The+Test+People/@53.7983881,-1.5436188,18z/data=!4m2!3m1!1s0x48795c1be3f15231:0x2c1ff134a7403570
+    .. _ODI Leeds: https://www.google.co.uk/maps/place/ODI+Leeds+C%2FO+Actuated+Futures/@53.7966436,-1.5338453,17z/data=!3m1!4b1!4m2!3m1!1s0x48795c16c39f7001:0x782b8aae4e273fd7
+    .. _The White Swan: https://www.google.co.uk/maps/place/The+Swan/@53.799001,-1.543131,18z/data=!3m1!4b1!4m2!3m1!1s0x48795c1bc0c8dd41:0xdf7f6f1765fadc5b
+    .. _The Wardrobe: https://www.google.co.uk/maps/place/The+Wardrobe/@53.797089,-1.533719,17z/data=!3m1!4b1!4m2!3m1!1s0x48795c16c8c1352d:0xd5727db52de3c639
