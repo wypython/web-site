@@ -1,0 +1,28 @@
+title: "Fast Python Implementations: An Opinionated Review"
+date: 2016-01-14
+body: |
+
+    This month Tony Simpson will be talking about Python interpreter
+    performance.
+
+    There have been many attempts to improve on the performance of the CPython
+    interpreter but it has proved to be difficult. The talk will examine
+    reasons for a faster interpreter. Past and present attempts will be
+    examined and compared. The talk will discuss technical details of JITs and
+    the CPython interpreter but still be of interest to a general Python
+    audience.
+
+    Date and Time
+    =============
+
+    Thursday 14th January.  Starting at 7.30pm.
+
+    Location
+    ========
+
+    To be confirmned.
+
+    .. _The Test People: https://www.google.co.uk/maps/place/The+Test+People/@53.7983881,-1.5436188,18z/data=!4m2!3m1!1s0x48795c1be3f15231:0x2c1ff134a7403570
+    .. _ODI Leeds: https://www.google.co.uk/maps/place/ODI+Leeds+C%2FO+Actuated+Futures/@53.7966436,-1.5338453,17z/data=!3m1!4b1!4m2!3m1!1s0x48795c16c39f7001:0x782b8aae4e273fd7
+    .. _The White Swan: https://www.google.co.uk/maps/place/The+Swan/@53.799001,-1.543131,18z/data=!3m1!4b1!4m2!3m1!1s0x48795c1bc0c8dd41:0xdf7f6f1765fadc5b
+    .. _The Wardrobe: https://www.google.co.uk/maps/place/The+Wardrobe/@53.797089,-1.533719,17z/data=!3m1!4b1!4m2!3m1!1s0x48795c16c8c1352d:0xd5727db52de3c639
