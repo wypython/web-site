@@ -1,0 +1,59 @@
+title: "Talisker - an opinionated WSGI stack"
+date: 2016-04-14
+body: |
+
+    A common practice these days is for a web application to be split into
+    multiple smaller services, divided into discrete responsibilities. It even
+    has its own buzzword.
+
+    However, when doing so, your operational complexity increases.  Each
+    service needs logging, metrics, error handling, worker management,
+    connection pooling, amongst many other things.
+
+    Enter Talisker stage right.
+
+    Talisker is an opinionated WSGI stack designed to standardise operational
+    concerns for running many Python services. It is based on gunicorn, and
+    provides:
+
+    - structured logging
+    - standard status urls
+    - request id tracing
+    - http connection pools*
+    - statsd reporting/client*
+    - raven/sentry integration*
+
+    (* WIP)
+
+    It's designed to be developer friendly, and simple to use, as it works as a
+    drop in replacement for gunicorn's runner. In was in part inspired by
+    Twitter's Finagle tool, and its aim is to provide a more standard PaaS-like
+    environment for our services.
+
+
+    Date and Time
+    =============
+
+    Thursday 14th April.  Starting at 7.30pm.
+
+    If you want to arrive before the talk, the venue will be open from about
+    7.00pm.  We will finish at around 8.30pm-9.00pm, and will be going to
+    `The White Swan`_ pub afterwards.
+
+    Location
+    ========
+
+    We will be meeting at the offices of `The Test People`_:
+
+    | Floor 4
+    | Albion Court
+    | Albion Place
+    | Leeds
+    | LS1 6JL
+
+    Buzz the 4th floor and someone will let you in.
+
+    .. _The Test People: https://www.google.co.uk/maps/place/The+Test+People/@53.7983881,-1.5436188,18z/data=!4m2!3m1!1s0x48795c1be3f15231:0x2c1ff134a7403570
+    .. _ODI Leeds: https://www.google.co.uk/maps/place/ODI+Leeds+C%2FO+Actuated+Futures/@53.7966436,-1.5338453,17z/data=!3m1!4b1!4m2!3m1!1s0x48795c16c39f7001:0x782b8aae4e273fd7
+    .. _The White Swan: https://www.google.co.uk/maps/place/The+Swan/@53.799001,-1.543131,18z/data=!3m1!4b1!4m2!3m1!1s0x48795c1bc0c8dd41:0xdf7f6f1765fadc5b
+    .. _The Wardrobe: https://www.google.co.uk/maps/place/The+Wardrobe/@53.797089,-1.533719,17z/data=!3m1!4b1!4m2!3m1!1s0x48795c16c8c1352d:0xd5727db52de3c639
