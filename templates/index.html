@@ -1,11 +1,18 @@
 <!doctype html>
 <html lang="en">
     <head>
+        <title>WYPy - West Yorkshire Python User Group</title>
+
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>WYPy - West Yorkshire Python User Group</title>
         <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet" />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@WYPython" />
+        <meta name="twitter:title" content="{{ meeting["title"] }}" />
+        <meta name="twitter:description" content="{{ meeting.get("description", "West Yorkshire Python User Group") }}" />
+
         <style>
         .header {
             background-color: #2b5b84;

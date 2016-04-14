@@ -1,4 +1,7 @@
 title: "Talisker - a Web Application Runtime"
+description:
+    Talisker is an opinionated WSGI stack designed to standardise operational
+    concerns for running many Python services.
 date: 2016-04-14
 body: |
 
