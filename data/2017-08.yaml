@@ -1,0 +1,41 @@
+title: "Skipole: A framework for creating WSGI web applications"
+date: 2017-08-10
+body: |
+
+    This month, Bernard Czenkusz will be talking about a project he's been
+    working on called Skipole.
+
+    `Skipole`_ is a framework for creating WSGI web applications. It provides
+    a web admin interface allows the developer to create web pages containing
+    widgets.  The developer also supplies appropriate python functions to
+    receive data and populate the widget parameters.
+
+    Date and Time
+    =============
+
+    Thursday 10th August, starting around 7.30pm.
+
+    We will finish at about 8:45pm, and will be going to `Headrow House`_
+    afterwards.
+
+
+    Location
+    ========
+
+    As usual, we will be meeting at `Futurelabs`_ (`map`_).
+
+    | Futurelabs
+    | 1 Eastgate
+    | Leeds
+    | LS2 7LY
+
+    From the Futurelabs web site: "If you’re walking, we’re 50 yards from the
+    back entrance of the Victoria Quarter. Simply look left, walk to the
+    crossroads and we’re in the building on the opposite corner (above the Gas
+    Showrooms). Take the door to the left of the Gas Showrooms and our
+    Reception is on the second floor."
+
+    .. _Futurelabs: http://futurelabs.org.uk/
+    .. _map: https://www.google.com/maps/place/Futurelabs/@53.7989821,-1.5402187,18z/data=!4m5!3m4!1s0x0:0x5822c6b1eec0db9c!8m2!3d53.7990549!4d-1.5392962
+    .. _Headrow House: https://goo.gl/maps/m5w1d5pEy1E2
+    .. _Skipole: https://bitbucket.org/skipole/skipole
