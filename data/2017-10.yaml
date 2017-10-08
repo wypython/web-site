@@ -11,6 +11,18 @@ body: |
     ever-incresing data requirements of the day.  Whether you're a database
     beginner or a seasoned pythonista, there's something here for you."
 
+    If there's enough time and we're very nice to Lorna, she *may* also show
+    off some serverless Python apps in a talk called "Fun With Serverless Apps":
+
+    "Serverless and the noOps movement are buzzwords that you've probably
+    heard, but could these technologies also solve problems that you actually
+    have?  This session will cover *when* to use a serverless approach, and
+    answer your questions about how to get started with it.  We'll look at how
+    to write code for these platforms, and how to safely and repeatedly deploy
+    your code to them.  We'll also look at how we can use these technologies to
+    build a skill for the Amazon Echo.  This session is suitable for developers
+    of all levels."
+
     Date and Time
     =============
 
