@@ -1,0 +1,55 @@
+title: "Programming Music for Performance: Live Coding With FoxDot"
+date: 2017-11-09
+body: |
+
+    This month Ryan Kirkbride will be talking about and demoing FoxDot, a
+    library for live coding music:
+
+    FoxDot is a Python library for interactive programming, specifically for
+    live coding music. This talk will touch upon the history of live coding,
+    the algorave movement (where people get together and dance to algorithms -
+    yes, it's true), and how you can use Python to make your own music.
+   
+    The FoxDot editor gives users the ability to edit their Python code while
+    it is being run, allowing them to enter a feedback loop where they can
+    execute code, listen to the result, then change the code and re-execute it
+    based on what they hear. Often dubbed "the composer programmer", a live
+    coder makes the act of composing music a performance practice in itself.
+    Python's clean syntax and flexibility lends itself to this and FoxDot
+    allows users to define musical algorithms quickly and easily.
+    
+    The talk will then culminate in a 10 minute improvised performance that
+    will demonstrate the wide range of musical capabilities available in the
+    system.
+    
+    FoxDot is maintained at github.com/Qirky/FoxDot.
+
+    Date and Time
+    =============
+
+    Thursday 9th November, starting around 7.30pm.
+
+    We will finish at about 8:45pm, and will be going to `Headrow House`_
+    afterwards.
+
+
+    Location
+    ========
+
+    As usual, we will be meeting at `Futurelabs`_ (`map`_).
+
+    | Futurelabs
+    | 1 Eastgate
+    | Leeds
+    | LS2 7LY
+
+    From the Futurelabs web site: "If you’re walking, we’re 50 yards from the
+    back entrance of the Victoria Quarter. Simply look left, walk to the
+    crossroads and we’re in the building on the opposite corner (above the Gas
+    Showrooms). Take the door to the left of the Gas Showrooms and our
+    Reception is on the second floor."
+
+    .. _Futurelabs: http://futurelabs.org.uk/
+    .. _map: https://goo.gl/NXrysH
+    .. _Headrow House: https://goo.gl/maps/m5w1d5pEy1E2
+    .. _PostgreSQL: https://www.postgresql.org/about/
