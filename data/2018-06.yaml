@@ -1,0 +1,52 @@
+title: Changing and Documenting Online APIs in a world of Continuous Deployments.
+date: 2018-06-14
+body: |
+    About the meeting
+    =================
+
+    This month we're meeting at Sky's offices in Leeds Dock. Doors will open at 6:30. You will
+    need to sign-in at Sky 2 before going to the meeting in Sky 1 but don't worry we'll make 
+    sure there are signs.
+    
+    We have a fantastic talk from Simon Davy on a topic that should lead to some interesting
+    discussion. The talk will start at 7:30. Talks and questions are normally over by 8:30. 
+    After the talk and questions we'll more to a local pub such as The Lamb and Flag for more 
+    discussion and sociallising.
+
+
+    Talks: Changing and Documenting Online APIs in a world of Continuous Deployments - Simon Davy
+    ---------------------------------------------------------------------------------------------
+
+    Making changes to a Web API is hard work. You have to be careful not to introduce backwards
+    incompatible changes. Any changes you do make need versioning and documenting somehow. And
+    when your service is deployed multiple times a day, it's easy for developers to accidentally
+    introduce changes or not document them properly.
+
+    My team has recently been developing a process that aim to make it easier for developers
+    to make changes safely as possible. It also provides accurate documentation that is tightly
+    coupled to the implementation in the code.
+
+    I will present an overview of the process, and demonstrate the tooling we've developed to
+    support it for Python web applications. While the tool itself is probably too specific to our
+    needs for general use, I'm interesting in gathering input on the ideas and goals we've
+    experimented with.
+
+
+    Date and Time
+    =============
+    Thursday 14 June, from 6:30 pm.
+    Talks from 7:30 pm.
+    Pub afterwards.
+
+    Location
+    ========
+    
+    You will need to sign in at Sky 2 reception before going to the meeting in Sky 1 but don't 
+    worry there will be signs and people to help.
+
+    | Sky 2
+    | Leeds Dock
+    | Leeds
+    | LS10 1QE
+
+
