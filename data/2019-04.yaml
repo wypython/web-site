@@ -1,0 +1,49 @@
+title: StarCraft 2 Bots and AI Code Dojo
+date: 2019-04-18
+body: |
+    About the meeting
+    =================
+
+    This month we're meeting at Sky's offices in Leeds Dock. Doors will open at 6:30. The meeting
+    will be in Sky 2. Please note this WYPy is on the 3rd Thursday of the month and not the usaul 
+    2nd Thursday.
+
+    Code Dojo: StarCraft 2 Bots and AI
+    ----------------------------------
+
+    Google's DeepMind has recent demonstrated it can beat pro player at StarCraft 2 (SC2).
+    Neural networks are maybe too complicated to start off with but SC2 has an API that can 
+    be used to create bots (programs that play a game). In this event we will explore how
+    SC2 is controlled from Python and try to write bots.
+
+    There should be no need to set anything up before hand yourself as the plan is to
+    use a web environment for the programming and simulation. But if you are interested you 
+    could have look at the resources linked from https://github.com/Blizzard/s2client-proto
+    and https://github.com/Dentosal/python-sc2.
+
+    Please come along and have fun!  
+
+
+    Equipment
+    ---------
+
+    Bring a laptop if you want to code or you can colaborate with others.
+
+
+    Date and Time
+    =============
+    Thursday 18 April, from 6:30 pm.
+    Start around 7:00 pm.
+    Pub afterwards.
+
+    Location
+    ========
+    
+    You will need to sign in at Sky 2 reception.
+
+    | Sky 2
+    | Leeds Dock
+    | Leeds
+    | LS10 1QE
+
+
