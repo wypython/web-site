@@ -1,1 +1,1 @@
-web gunicorn wy:app
+web: gunicorn wy:app
